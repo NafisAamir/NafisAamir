@@ -15,10 +15,15 @@
 
 <hr/>
 </div>
+<div align="center">
+    <h2 style="color: #44AEFB;" align="center">Social Media Icons</h2>
+    <a href="https://linkedin.com/in/www.linkedin.com/in/ md-nafis-aamir-18155914b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ md-nafis-aamir-18155914b" height="30" width="40" /></a>
+
+</div>
+<br/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=NafisAamir"/>
 
-<a href="https://linkedin.com/in/www.linkedin.com/in/ md-nafis-aamir-18155914b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ md-nafis-aamir-18155914b" height="30" width="40" /></a>
 
 <h2 style="color: #44AEFB">⚙️ Languages and Tools</h2>
 <div align="center" style="display:block;">
