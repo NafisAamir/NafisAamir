@@ -16,7 +16,7 @@
 <hr/>
 </div>
 
-
+<img src="https://github-profile-trophy.vercel.app/?username=Bharat-Shaw"/>
 
 <h2 style="color: #44AEFB">⚙️ Languages and Tools</h2>
 <div align="center" style="display:block;">
