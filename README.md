@@ -21,8 +21,10 @@
 
 </div>
 <br/>
+<div align="center">
+    <img  src="https://github-profile-trophy.vercel.app/?username=NafisAamir"/>
+</div>
 
-<img src="https://github-profile-trophy.vercel.app/?username=NafisAamir"/>
 
 
 <h2 style="color: #44AEFB">⚙️ Languages and Tools</h2>
