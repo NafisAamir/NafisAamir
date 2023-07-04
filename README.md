@@ -65,11 +65,12 @@
 </div>
 
 <div align="center">
-  <h3 style="color: #44AEFB;">🌐 Portfolio</h3>
-  <a href="https://nafisaamir.github.io/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Visit%20Portfolio-%230077B5?style=for-the-badge&logo=github&logoColor=white" alt="Visit Portfolio">
-  </a>
+  <h3 style="color: #44AEFB;">
+    <a href="https://nafisaamir.github.io/" target="_blank" rel="noopener noreferrer">🌐 Portfolio</a>
+  </h3>
 </div>
+
+
 
 
 <div>
