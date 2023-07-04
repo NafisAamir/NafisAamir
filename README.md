@@ -21,15 +21,20 @@
 </div>
 
 <div align="center">
-  <h2 style="color: #44AEFB;" align="center">Social Media Icons</h2>
-  <a href="https://linkedin.com/in/www.linkedin.com/in/md-nafis-aamir-18155914b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/md-nafis-aamir-18155914b" height="30" width="40" /></a>
-  <hr/>
+  <h2 style="color: #44AEFB;">🔗 Social Media Icons</h2>
+  <a href="https://linkedin.com/in/www.linkedin.com/in/md-nafis-aamir-18155914b" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+
 </div>
+
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NafisAamir"/>
+  <h2 style="color: #44AEFB;">🏆 Trophies</h2>
+  <img src="https://github-profile-trophy.vercel.app/?username=NafisAamir" alt="Trophies">
 </div>
+
 
 <h2 style="color: #44AEFB;">⚙️ Languages and Tools</h2>
 <div align="center" style="display:block;">
