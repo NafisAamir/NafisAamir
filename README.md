@@ -1,5 +1,5 @@
 <h1 style="color: #44AEFB;" align="center">Hi 👋, I'm 👨🏻‍💻Md Nafis Aamir</h1>
-<h3 align="center">A passionate and enthusiastic Full-Stack developer.</h3>
+<h3 align="center">Enthusiastic and Passionate Full Stack MERN Developer. Proficient in MongoDB, Express.js, React, and Node.js. Skilled in frontend and backend development, creating robust and scalable web applications. Committed to delivering exceptional user experiences through innovative solutions. Seeking new opportunities to contribute and enhance skills.</h3>
 <div align="center">
   <img style="width: 800px; height:600px;" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWd6Y2ZhMGE1Y2lnZnFiYjJ6cDB4M2ZvazRxY3l2enBkcndxcTFsZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VpNZbCdAWzh2XGphjv/giphy.gif"/>
   <hr/>
@@ -32,7 +32,7 @@
 
 <div align="center">
   <h2 style="color: #44AEFB;">🏆 Trophies</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=NafisAamir" alt="Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=NafisAamir&bg_color=0D1117" alt="Trophies">
 </div>
 
 
@@ -62,9 +62,9 @@
   <div>
     <img src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"/>
 </div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NafisAamir"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NafisAamir&bg_color=0D1117"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=NafisAamir"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=NafisAamir"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NafisAamir&bg_color=0D1117"/>
 </div>
 
 <div align="center">
