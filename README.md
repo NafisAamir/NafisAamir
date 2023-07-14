@@ -11,7 +11,7 @@
   
   <div align="center">
   <h3 style="color: #44AEFB;">📄 My Resume</h3>
-  <a href="https://drive.google.com/file/d/1PuZcBPR99U0LXYEYhTPW1HEq2WBoyHqE/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+  <a href="https://drive.google.com/file/d/1mTq3Ktym2ZoNLQhG3Pglc_bujDtoRvIx/view?usp=sharing" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/View%20Resume-%230077B5?style=for-the-badge&logo=google-drive&logoColor=white" alt="View Resume">
   </a>
 </div>
