@@ -69,7 +69,7 @@
 
 <div align="center">
   <h3 style="color: #44AEFB;">
-    <a href="https://nafisaamir.github.io/" target="_blank" rel="noopener noreferrer">🌐 Portfolio</a>
+    <a href="https://NafisAamir.github.io/" target="_blank" rel="noopener noreferrer">🌐 Portfolio</a>
   </h3>
 </div>
 
